@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <h2>{{ .Title }}</h2>
+  {{ .Content }}
+  {{ range .Pages }}
+    <div class="blogbar"><h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+    {{ .Date | time.Format ":date_medium" }}
+    {{ .Summary }}</div>
+  {{ end }}
+{{ end }}

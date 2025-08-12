@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Funiculars website</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Blog on Funiculars website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development is an utter mess</title>
+      <link>http://localhost:1313/posts/webdevmess/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/webdevmess/</guid>
+      <description>&lt;p&gt;I started learning HTML and CSS a decade ago, 2015. Back in intermediate school my teacher introduced me to a tool known as &lt;a href=&#34;https://neocities.org/&#34;&gt;neocities&lt;/a&gt;. I started using it obsessively to express and to present &lt;a href=&#34;https://neocities.org/site/valuesforkids&#34;&gt;things&lt;/a&gt; in my class. And over the next decade I stuck to neocities for the benefits that it gave to me for free. But I&amp;rsquo;ve always desired my own website domain and learning how to make a website &amp;ldquo;professionally&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

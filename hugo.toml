@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Funiculars website'
+theme = 'funi'
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
